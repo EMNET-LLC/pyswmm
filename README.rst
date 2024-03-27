@@ -1,5 +1,7 @@
-## ℹ️ this repository has been archived 
-This code is now being maintained in Bitbucket, [here](https://bitbucket.org/xyleminc/pyswmm/src/master/)
+ℹ️ this repository has been archived
+
+This code is now being maintained in Bitbucket, `[here] <https://bitbucket.org/xyleminc/pyswmm/src/master/>`_
+
 
 PYSWMM
 ======
